@@ -1,6 +1,6 @@
 # End to end machine learning project for football player image classification
 
-> In this project I have collected photos of my all time favourite players and tried to do EDA. After performing EDA I trained multiple model and took the best one. Then I build a UI for user to drag and drop his/her own player image and the Flask server will come up with the prediction.
+> In this project I have collected photos of my all time favourite players and tried to do EDA. After performing EDA I trained multiple models and took the best one. Then I build a UI for user to drag and drop his/her own player image and the Flask server will come up with the prediction.
 
 ![screenshot](./images_and_gifs/app_screenshot.png)
 
