@@ -39,8 +39,6 @@
 
 > Currently I have worked on simpler less number of images, my future plan is to come up with a robust model trained with vast data.
 
-> You can check out the data [here]()
-
 ## Author
 
 - GitHub: [@GitHub](https://github.com/Micky373)
