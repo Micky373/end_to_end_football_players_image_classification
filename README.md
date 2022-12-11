@@ -35,7 +35,7 @@
 
 > In the test_images section I have provided 5 sample images you can check the classification using those too
 
-> All the EDA, model training and predicting is clearly shown in the note books found in the `notebooks` folder.
+> All the EDA, model training and predicting is clearly shown is found in the `notebooks` folder.
 
 > Currently I have worked on simpler less number of images, my future plan is to come up with a robust model trained with vast data.
 
