@@ -49,7 +49,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Micky373/end_to_end_home_price_prediction_ml_project).
+Feel free to check the [issues page](https://github.com/Micky373/end_to_end_football_players_image_classification/issues).
 
 ## Show your support
 
